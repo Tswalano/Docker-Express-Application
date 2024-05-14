@@ -1,2 +1,3 @@
-# demo-node-app
-# demo-node-app
+# Docker Express App (w/ Terraform)
+
+Deploying Docker Containers to AWS ECS Using Terraform
