@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "age": 30,
+        "address": "Jakarta",
+        "phone": "081234567890",
+        "email": "john.doe@example.com"
+    },
+    {
+        "id": 2,
+        "name": "Jane Doe",
+        "age": 25,
+        "address": "Bandung",
+        "phone": "081234567890",
+        "email": "jane.doe@example.com"
+    },
+    {
+        "id": 3,
+        "name": "Bob Smith",
+        "age": 35,
+        "address": "Surabaya",
+        "phone": "081234567890",
+        "email": "bob.smith@example.com"
+    },
+    {
+        "id": 4,
+        "name": "Alice Johnson",
+        "age": 28,
+        "address": "Malang",
+        "phone": "081234567890",
+        "email": "alice.johnson@example.com"
+    },
+    {
+        "id": 5,
+        "name": "Mike Brown",
+        "age": 32,
+        "address": "Jakarta",
+        "phone": "081234567890",
+        "email": "mike.brown@example.com"
+    }
+]
